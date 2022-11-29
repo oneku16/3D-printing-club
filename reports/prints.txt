@@ -1,0 +1,3 @@
+date        CURA    final       Name
+
+28/11/22    32g     38g         Filament holder
