@@ -1,0 +1,9 @@
+name            price                wight   
+
+ABS (geek.kg)   1550 som             961g 
+ABS (FDplast)   N/A                  1210g (with tape)
+
+
+
+
+
