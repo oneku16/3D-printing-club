@@ -4,3 +4,4 @@ N/A         N/A     44g         box for card reader
 28/11/22    32g     38g         Filament holder (for anycubic 4 pro max #1)
 29/11/22    32g     38g         Filament holder (for anycubic 4 pro max #2)
 29/11/22    42g     44g         Cell phone holder
+01/12/22    6g      6g          finger-splint (Bashir_2023)
