@@ -7,3 +7,4 @@ N/A         N/A     N/A         coin_holder (Nurlan Shaidulaev)
 29/11/22    42g     44g         Cell phone holder
 01/12/22    6g      6g          finger-splint (Bashir_2023)
 11/12/22    5g      5g          coin_holder (Elnazar_2025)
+14/12/22    2g      2g          fox (Shukur_2023)
