@@ -1,7 +1,7 @@
 name            price                wight   
 
-ABS (geek.kg)   1550 som             961g
-ABS (FDplast)   N/A                  1210g (with tape)
+ABS (geek.kg)   1550 som             961g pure wight
+ABS (FDplast)   around 980 soms      1021g pure wight
 
 
 
@@ -13,7 +13,7 @@ labor_cost = time * hourly_rate (TBD)
 
 ABS's 
 	properties:
-		price: 1550 som
+		price: (1550 som, ~1000 som)
 		density: [1.03-1.14] average = 1.085
 		diameter: 1.75 mm
 		gramm cost: 1550 / 970 -> 1.598
